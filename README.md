@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+I'm Kelvin Andakuro, an aspiring front-end developer passionate about building beautiful, user-friendly and accessible web experiences
 
-<!--
-**Andak-Creates/Andak-Creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills 🛠️
+- HTML | CSS | JavaScript
+- React.js | Bootstrap | Git
 
-Here are some ideas to get you started:
+## Actively learning how to contribute to open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Let's collaborate on a project.
+## Connect with me🫱🏾‍🫲🏾
+- [Linkedin](linkedin.com/in/kelvin-andakuro)
+- [Twitter](twitter.com/kelvinacoder)
