@@ -1,4 +1,5 @@
-# Hi there 👋
+<div style="text-align: center;">
+  # Hi there 👋
 I'm Kelvin Andakuro, an aspiring front-end developer passionate about building beautiful, user-friendly and accessible web experiences
 
 ## 🛠️ Skills 🛠️
@@ -8,7 +9,9 @@ I'm Kelvin Andakuro, an aspiring front-end developer passionate about building b
 -- Actively learning how to contribute to open source
 
 
-## Let's collaborate on a project.
--- Connect with me🫱🏾‍🫲🏾
+Let's collaborate on a project.
+Connect with me🫱🏾‍🫲🏾
 - [Linkedin](linkedin.com/in/kelvin-andakuro)
 - [Twitter](twitter.com/kelvinacoder)
+
+</div>
